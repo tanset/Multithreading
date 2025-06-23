@@ -44,11 +44,6 @@ The goal of this project is to **deepen understanding of multithreading concepts
 - **Thread Pool**  
   Fixed number of reusable threads to execute queued jobs.
 
-## Technologies
-
-- **Language**: C (GCC)
-- **Threading Library**: POSIX Threads (pthreads)
-- **Build Tool**: `Make`
 
 
 ## Source & Attribution
