@@ -1,12 +1,12 @@
-# 🧵 Multithreading Concepts Library
+# Multithreading Concepts Library
 
 This project is a **practice-focused multithreading library** built on top of **POSIX threads (pthreads)**. It aims to explore and implement a wide range of **thread synchronization mechanisms**, serving as both a learning exercise and a flexible foundation for concurrent programming in C/C++.
 
-## 🧠 Purpose
+## Purpose
 
 The goal of this project is to **deepen understanding of multithreading concepts** by implementing them from scratch rather than relying solely on built-in primitives. Each module in the library represents a classic or advanced synchronization construct used in real-world concurrent systems.
 
-## 📦 Features & Modules
+## Features & Modules
 
 - **Wait Queues**  
   Efficient queuing mechanism for blocked threads waiting on a condition.
@@ -44,14 +44,14 @@ The goal of this project is to **deepen understanding of multithreading concepts
 - **Thread Pool**  
   Fixed number of reusable threads to execute queued jobs.
 
-## 🛠️ Technologies
+## Technologies
 
 - **Language**: C (GCC)
 - **Threading Library**: POSIX Threads (pthreads)
 - **Build Tool**: `Make`
 
 
-## 📖 Source & Attribution
+## Source & Attribution
 
 This project is a **reimplementation for learning purposes**, based on the original work:  
 [sachinites/MultithreadingBible](https://github.com/sachinites/MultithreadingBible)
